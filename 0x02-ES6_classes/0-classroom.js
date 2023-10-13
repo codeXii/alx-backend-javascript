@@ -5,9 +5,9 @@ export default class ClassRoom {
     this._maxStudentsSize = maxStudentsSize;
   }
 
-  set maxStudentsSize(new_MaxStudentsSize) {
-    if (typeof new_MaxStudentsSize === 'number') {
-      this._maxStudentsSize = new_MaxStudentsSize;
+  set maxStudentsSize(newMaxStudentsSize) {
+    if (typeof newMaxStudentsSize === 'number') {
+      this._maxStudentsSize = newMaxStudentsSize;
     }
   }
 
