@@ -3,3 +3,5 @@ function displayMessage(data) {
 }
 
 module.exports = displayMessage;
+
+// prints in STDOUT
