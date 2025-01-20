@@ -13,3 +13,5 @@ app.listen(port, hostname, () => {
 });
 
 module.exports = app;
+
+//  Creating a small HTTP server using Node's HTTP module
