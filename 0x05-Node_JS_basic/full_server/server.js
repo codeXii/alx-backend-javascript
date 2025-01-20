@@ -12,3 +12,5 @@ app.use('/students/:major', router);
 app.listen(port);
 
 export default app;
+
+// server test
