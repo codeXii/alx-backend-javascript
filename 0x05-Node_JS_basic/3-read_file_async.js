@@ -40,3 +40,5 @@ function countStudents(fileName) {
 }
 
 module.exports = countStudents;
+
+// Reading a file asynchronously with Node JS
