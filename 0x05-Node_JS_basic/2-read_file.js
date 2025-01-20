@@ -36,3 +36,5 @@ function countStudents(fileName) {
 }
 
 module.exports = countStudents;
+
+//  Reading a file synchronously with Node JS
